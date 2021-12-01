@@ -1,3 +1,4 @@
 # CS305mod5
-## CS-305 Module 5  
-Uses MIT License: anyone can modify or access it.
+## Chess Game
+A two-player chess game written in Java.  
+Uses MIT License: open to access and modification.
